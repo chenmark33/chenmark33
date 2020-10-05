@@ -14,6 +14,7 @@ Feel free to check out some of my current and recent projects and repositories b
 ### Projects & Repos
 #### Resume Parser (work in progress)
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+
 • A resume parser leveraging Lever's public API to give candidates an idea of how their resume is parsed by Automated Tracking Systems (ATS) 
 
 #### M1 Chess Engine (work in progress)
