@@ -12,7 +12,7 @@ Thanks for dropping by! My name is Mark, and I'm a recent Computer Science gradu
 Feel free to check out some of my current and recent projects and repositories below. 
 
 ## Projects & Repos
-----
+
 ### Resume Parser (work in progress)
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 
