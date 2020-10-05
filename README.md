@@ -7,49 +7,37 @@
 <a href="https://medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-Thanks for dropping by! My name is Mark, and I'm a recent Computer Science graduate from New York University, currently looking for exciting developer opportunities! 
+Thanks for dropping by! My name is Mark. I am a recent graduate from New York University and am currently looking for exciting software development opportunities! 
 
-Feel free to peek below for some of my current and recent projects and repositories, or to find out more about me! 
+Feel free to peek below for some of my current/recent projects and repositories, or to find out more about me! 
 
-### Projects & Repos
----- 
-#### Resume Parser (work in progress)
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<h3> Projects and Repos </h3>
 
-• A resume parser leveraging Lever's public API to give candidates an idea of how their resume is parsed by Automated Tracking Systems (ATS) 
+<b> Resume Parser Tool (Planned) </b> : A tool leveraging Lever's public API to give candidates an idea of how their resume is parsed and viewed by Automated Tracking Systems (ATS)
 
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/> <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-----
-#### M1 Chess Engine (work in progress)
+<b> Dark Blue (Work in Progress) </b> : A console-operated chess engine developed in Java supporting the Universal Chess Interface (UCI). Bitboards are used for board representation and move generation, with support for move validation, material evaluation, and pawn promotion 
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+<b> ProCode </b> : An online judging website with an integrated IDE where users can solve custom programming problems in Java, Python, or C++, and evaluate their code against hidden test cases
+
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+<b> Data Structures & Algorithms Collection </b> : My collection of various Data Structures and Algorithms that I've learned throughout the years, implemented in Java. 
+
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
 
-• A console-operated chess engine developed in Java supporting the Universal Chess Interface (UCI)
-• Uses Bitboards for board representation and move generation with support for move validation, material evaluation, and pawn promotion
+<h3> More About Me </h3> 
 
-----
-#### ProCode
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+I am a recent graduate currently living in NY! I went to New York University, where I studied Mechanical Engineering student for a year and a half before switching tracks to a Computer Science major, with a minor in Chinese Language. 
 
-• An online judging website with an integrated IDE where users can solve custom programming problems in Java, Python, or C++, and evaluate their code against hidden test cases
+Besides mostly growing up in <img src="https://www.flaticon.com/svg/static/icons/svg/3013/3013911.svg" width="15"/> New York, I spent 2 years living in <img src="https://www.flaticon.com/svg/static/icons/svg/3014/3014001.svg" width="15"/> Shanghai, China when I was younger, and have travelled to <img src="https://www.flaticon.com/svg/static/icons/svg/3014/3014018.svg" width="15"/> Japan, <img src="https://www.flaticon.com/svg/static/icons/svg/3013/3013903.svg" width="15"/> Switzerland, <img src="https://www.flaticon.com/svg/static/icons/svg/3013/3013920.svg" width="15"/> Italy, <img src="https://www.flaticon.com/svg/static/icons/svg/3013/3013894.svg" width="15"/> Mexico, and <img src="https://www.flaticon.com/svg/static/icons/svg/206/206669.svg" width="15"/> Hong Kong. Future destinations on the top of my list include <img src="https://www.flaticon.com/svg/static/icons/svg/3013/3013991.svg" width="15"/> South Korea, <img src="https://www.flaticon.com/svg/static/icons/svg/330/330483.svg" width="15"/> Taiwan, and the <img src="https://www.flaticon.com/svg/static/icons/svg/3013/3013972.svg" width="15"/> UK. 
 
----- 
-#### Data Structures & Algorithms Collection
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
+When I'm not working on programming, I try to spend time between trying new foods, travelling, and learning new (spoken) languages. 
+<!-- I'm fluent in Mandarin Chinese, can understand Shanghainese, and have taken one semester of Korean, which I hope to continue improving in the future, at which point I'd also like to pick up German or Japanese.  -->
 
-• A collection of various Data Structures and Algorithms implemented in Java. 
-
-### Stuff I Code With
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  
-
-<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-
-### More About Me 
-
-----
 
 <!--
 **chenmark33/chenmark33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
